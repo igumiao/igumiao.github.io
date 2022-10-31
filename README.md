@@ -160,6 +160,7 @@ git add --all
 git commit -m "Write Commit Message"
 git push -u origin main
 ```
+
 #### 8. View your resume on GitHub Page
 
 - Optionally you can permalink on the top of your `resume.md`
