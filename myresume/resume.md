@@ -5,7 +5,7 @@ permalink: /zhou-resume/
 Xiaohong Zhou
 ============
 
-[*back to README*](https://igumiao.github.io/README)
+[*back to README*](https://igumiao.github.io/readme)
 
 ----
 
@@ -67,4 +67,4 @@ Projects
 > Winnipeg, MB
 
 
-[*back to README*](https://igumiao.github.io/README)
+[*back to README*](https://igumiao.github.io/readme)
