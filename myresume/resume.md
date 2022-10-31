@@ -5,7 +5,7 @@ permalink: /zhou-resume/
 Xiaohong Zhou
 ============
 
-[*back to README*](https://igumiao.github.io/readme)
+[*back to README*](https://igumiao.github.io/readme/)
 
 ----
 
