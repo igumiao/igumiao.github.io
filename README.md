@@ -147,8 +147,8 @@ git push -u origin main
   ---
 ```
 - Browse to `username.github.io/fileofyourresume` or `username.github.io/permalink`
-###9. Here is the demo 
 
+###9. Here is the demo 
 ![](https://github.com/igumiao/igumiao.github.io/blob/main/demo.gif)
 
 ## More Resources
