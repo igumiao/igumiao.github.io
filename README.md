@@ -194,7 +194,7 @@ This project using [*The Cayman theme*][Caymanlink]
 
 README created using [README.so]([readme.so](https://readme.so/))
 
-Maintained by @igumiao
+Maintained by [@igumiao](https://www.github.com/igumiao)
 
 
 
