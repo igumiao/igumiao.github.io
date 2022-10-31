@@ -111,15 +111,15 @@ gem 'jekyll-remote-theme'
 gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
 ```
 *__NOTICE:__*
-Replace `GITHUB-PAGES-VERSION` with the latest supported version you can find here: ["Dependency versions."](https://pages.github.com/versions/)
+*Replace `GITHUB-PAGES-VERSION` with the latest supported version you can find here: ["Dependency versions."](https://pages.github.com/versions/)*
 - comment out the line that starts with `gem "jekyll"` in `Gemfile`
 ``` 
 #gem "jekyll", "~> 4.3.1"
 ```
-
+- Add the following to your site's `_config.yml`
 ### 6. Customize the page
 
-- [Cayman theme][Caymanlink] will respect the following variables in _config.yml
+- [Cayman theme][Caymanlink] will respect the following variables in `_config.yml`
 ```yml
 title: [The title of your site]
 description: [A short description of your site's purpose]
