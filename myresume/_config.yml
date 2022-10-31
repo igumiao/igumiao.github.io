@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/myresume" # the subpath of your site, e.g. /blog
 url: "https://igumiao.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
-github_username:  jekyll
+github_username:  igumiao
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0

@@ -1,7 +1,3 @@
----
-title: [Zhou's Resume Page]
----
-
 Xiaohong Zhou
 ============
 [*back to README*](https://igumiao.github.io/README)
