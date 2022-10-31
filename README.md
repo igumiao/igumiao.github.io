@@ -192,7 +192,7 @@ git push -u origin main
 
 This project using [*The Cayman theme*][Caymanlink]
 
-README created using [README.so]([readme.so](https://readme.so/))
+README created using [readme.so](https://readme.so/)
 
 Maintained by [@igumiao](https://www.github.com/igumiao)
 
