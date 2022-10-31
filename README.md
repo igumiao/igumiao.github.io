@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: About
+permalink: /about/
+---
 # Host a Resume On GitHub Page
 
 A tutorial on how to host and format a resume using Markdown, 
