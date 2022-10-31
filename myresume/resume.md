@@ -1,6 +1,5 @@
 ---
-layout: default
-title: About
+
 permalink: /resume1/
 ---
 Xiaohong Zhouuuuuu
