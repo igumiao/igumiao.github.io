@@ -47,13 +47,13 @@ The instructions use the same word to describe the name of a file, the variable 
 
 >Here we use a distributed version control tool called Git.
 
-  - Head over to [GitHub][githublink] 
+- Head over to [GitHub][githublink] 
 
-  - Create a new public repository named `username`.github.io, where the `username` is your `username` on GitHub.
+- Create a new public repository named `username`.github.io, where the `username` is your `username` on GitHub.
   
-  - Click *add README.md* 
+- Click *add README.md* 
 
-  - Click *Create a new repository*
+- Click *Create a new repository*
 
 #### 2. Clone the repository
 >Here we demonstrate how to clone the repository and save the file on the local machine to achieve version control.
@@ -148,6 +148,7 @@ description: [A short description of your site's purpose]
 #### 7. Push it to GitHub
 
 >The audience is  student with no experience with Git, thus it's important to demonstrate how to push.
+
 - Change `url` in `_config.yml`
 ```
 url: "https://username.github.io/" 
