@@ -138,8 +138,18 @@ git add --all
 git commit -m "Write Commit Message"
 git push -u origin main
 ```
+### 8. View your resume on GitHub Page
 
+- Optionally you can permalink on the top of your `resume.md`
+```
+  ---
+  permalink: /zhou-resume/
+  ---
+```
+- Browse to `username.github.io/fileofyourresume` or `username.github.io/permalink`
+###9. Here is the demo 
 
+![](https://github.com/igumiao/igumiao.github.io/blob/main/demo.gif)
 
 ## More Resources
 
@@ -153,11 +163,6 @@ git push -u origin main
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-## Demo Gif
-
-![](https://github.com/igumiao/igumiao.github.io/blob/main/demo.gif)
 
 
 ## Authors
