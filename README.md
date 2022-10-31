@@ -132,20 +132,15 @@ description: [A short description of your site's purpose]
 url: "https://username.github.io/" 
 ```
 - Push it to GitHub
+
 ```bash
 git add --all
-
 git commit -m "Write Commit Message"
-
 git push -u origin main
 ```
 
 
-[markdownlink]:<https://www.markdownguide.org/basic-syntax/#links>
-[githublink]: <https://github.com/>
-[gitdownload]: <https://git-scm.com/downloads>
-[jekyllinstall]: <https://jekyllrb.com/docs/installation/>
-[Caymanlink]:<https://github.com/pages-themes/cayman>
+
 ## More Resources
 
  - [Awesome Markdown Guide](https://www.markdownguide.org/basic-syntax/#links)
@@ -180,3 +175,10 @@ Answer 1
 
 Answer 2
 
+
+
+[markdownlink]:<https://www.markdownguide.org/basic-syntax/#links>
+[githublink]: <https://github.com/>
+[gitdownload]: <https://git-scm.com/downloads>
+[jekyllinstall]: <https://jekyllrb.com/docs/installation/>
+[Caymanlink]:<https://github.com/pages-themes/cayman>
