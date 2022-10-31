@@ -43,7 +43,7 @@ Each of the commands should show up the version of the tool.
 >Since our audience is students who don't have much experience with Git, Jekyll, Markdown, and Github, it's necessary to give clear and straightforward instructions. The instruction should only involve critical parts.
 The instructions use the same word to describe the name of a file, the variable name, or the page link to keep the style to avoid confusion.
 #### 1. Create a repository
->Here we plan to use a distributed version control tool called Git.
+>Here we use a distributed version control tool called Git.
 
   - Head over to [GitHub][githublink] 
 
@@ -127,6 +127,9 @@ gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
 #gem "jekyll", "~> 4.3.1"
 ```
 - Add the following to your site's `_config.yml`
+```
+markdown: kramdown
+```
 #### 6. Customize the page
 >Here we are using variables to customize our static webpage
 - [Cayman theme][Caymanlink] will respect the following variables in `_config.yml`
@@ -189,7 +192,7 @@ Markdown is easy to learn and read. It's also easy to convert to HTML than word 
 
 #### Question 2. Why is my resume not showing up?
 
-You can try copy `_config.yml` , `Gemfile`, and `Gemfile.lock`  to your main repository. Find more information at [troubleshooting](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites)
+You can try copy `_config.yml` , `Gemfile`, and `Gemfile.lock` from `/myresume` to your main repository (`username.github.io`). Find more information at [troubleshooting](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/troubleshooting-jekyll-build-errors-for-github-pages-sites)
 
 
 
