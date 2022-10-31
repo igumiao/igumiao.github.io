@@ -172,7 +172,7 @@ git push -u origin main
 
 #### 9. Here is the demo 
 
-![](https://github.com/igumiao/igumiao.github.io/blob/main/demo.gif)
+![demo](https://i.imgur.com/suZs8LE.gif)
 
 #### 10. More Resources
 
