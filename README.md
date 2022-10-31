@@ -155,9 +155,9 @@ git push -u origin main
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Screenshots
+## Demo Gif
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](https://github.com/igumiao/igumiao.github.io/blob/main/demo.gif)
 
 
 ## Authors
