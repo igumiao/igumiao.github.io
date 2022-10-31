@@ -1,4 +1,7 @@
+---
 
+permalink: /readme/
+---
 # Host a Resume On GitHub Page
 
 A tutorial on how to host and format a resume using Markdown, 
@@ -8,7 +11,7 @@ a Markdown editor, GitHub Pages, and Jekyll.
 
 ## Demo
 
-Here is the demo: [igumiao's resume](igumiao.github.io/myresume/resume)
+Here is the demo: [igumiao's resume](igumiao.github.io/resume)
 
 
 
