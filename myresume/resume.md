@@ -1,5 +1,6 @@
 ---
-
+title: Resume Page
+descrbition: Welcome to my resume page
 permalink: /zhou-resume/
 ---
 Xiaohong Zhou
