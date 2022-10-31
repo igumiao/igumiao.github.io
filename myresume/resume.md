@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+permalink: /resume1/
+---
 Xiaohong Zhouuuuuu
 ============
 [*back to README*](https://igumiao.github.io/README)
