@@ -8,13 +8,13 @@ A tutorial on how to host and format a resume using Markdown,
 a Markdown editor, GitHub Pages, and Jekyll.
 
 
-
+----------------------
 ## Demo
 
 Here is the demo: [igumiao's resume](https://igumiao.github.io/zhou-resume)
 
 
-
+----------------------
 ## Prerequisites
 
 - A resume formatted in [Markdown][markdownlink]
@@ -39,6 +39,7 @@ gcc -v
 ```
 Each of the commands should show up the version of the tool.
 
+----------------------
 ## Instructions
 >Since our audience is students who don't have much experience with Git, Jekyll, Markdown, and Github, it's necessary to give clear and straightforward instructions. The instruction should only involve critical parts.
 The instructions use the same word to describe the name of a file, the variable name, or the page link to keep the style to avoid confusion.
@@ -185,6 +186,8 @@ git push -u origin main
  - [Jekyll Docs](https://jekyllrb.com/docs/)
  - [Git Command Guide](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
 
+
+----------------------
 ## Authors and Acknowledgments
 
 This project using [*The Cayman theme*][Caymanlink]
@@ -199,7 +202,7 @@ Maintained by @igumiao
 
 
 
-
+----------------------
 ## FAQ
 
 #### Question 1. Why is Markdown better than a word processor?
