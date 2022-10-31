@@ -42,7 +42,9 @@ Each of the commands should show up the version of the tool.
 ## Instructions
 >Since our audience is students who don't have much experience with Git, Jekyll, Markdown, and Github, it's necessary to give clear and straightforward instructions. The instruction should only involve critical parts.
 The instructions use the same word to describe the name of a file, the variable name, or the page link to keep the style to avoid confusion.
+
 #### 1. Create a repository
+
 >Here we use a distributed version control tool called Git.
 
   - Head over to [GitHub][githublink] 
@@ -58,17 +60,16 @@ The instructions use the same word to describe the name of a file, the variable 
 >The audience is the student with no experience with Git. Thus it's essential to demonstrate how to clone the repository.
 
 -  Go to the folder  where you want to store your project (on your computer)
-
 ```bash
 cd pathOfFolder
 ```
-
 - Clone the new repository 
 ```bash
 git clone https://github.com/username/username.github.io
 ```
 
 #### 3. Initialize your website
+
 >Here we are using Jekyll to generate a static website.
 
 - Enter the project folder 
@@ -85,13 +86,15 @@ jekyll new myresume
 ```
 
 #### 4. Run locally with your resume.md
+
 >Here we use a  lightweight Markup language called Markdown with Jekyll to generate our resume page.
+
 - Go to `./myresume` folder
 ```bash
 cd myresume
 ```
 - Move your `resume.md` into `./myresume`
-
+  
 - Build the site and make it available on a local server
 ```bash
 bundle add webrick
@@ -100,6 +103,7 @@ bundle exec jekyll serve
 - Browse to http://localhost:4000/nameofyourResumeFile
 
 #### 5.  Add a theme to our resume page
+
 >Here we are using GitHub Page's theme to modify our static webpage
 
 *In this tutorial, we will be using  [cayman theme][Caymanlink].*
@@ -130,14 +134,19 @@ gem "github-pages", "~> GITHUB-PAGES-VERSION", group: :jekyll_plugins
 ```
 markdown: kramdown
 ```
+
 #### 6. Customize the page
+
 >Here we are using variables to customize our static webpage
+
 - [Cayman theme][Caymanlink] will respect the following variables in `_config.yml`
 ```yml
 title: [The title of your site]
 description: [A short description of your site's purpose]
 ```
+
 #### 7. Push it to GitHub
+
 >The audience is  student with no experience with Git, thus it's important to demonstrate how to push.
 - Change `url` in `_config.yml`
 ```
@@ -161,6 +170,7 @@ git push -u origin main
 - Browse to `username.github.io/fileofyourresume` or `username.github.io/permalink`
 
 #### 9. Here is the demo 
+
 ![](https://github.com/igumiao/igumiao.github.io/blob/main/demo.gif)
 
 #### 10. More Resources
@@ -172,6 +182,7 @@ git push -u origin main
  - [Git Command Guide](https://www.freecodecamp.org/news/10-important-git-commands-that-every-developer-should-know/)
 
 ## Authors and Acknowledgments
+
 This project using [*The Cayman theme*][Caymanlink]
 
 README created using [README.so]([readme.so](https://readme.so/))
@@ -186,7 +197,8 @@ Maintained by @igumiao
 
 
 ## FAQ
-####Question 1. Why is Markdown better than a word processor?
+
+#### Question 1. Why is Markdown better than a word processor?
 
 Markdown is easy to learn and read. It's also easy to convert to HTML than word processor.
 
