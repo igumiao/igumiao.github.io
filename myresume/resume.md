@@ -1,8 +1,8 @@
 ---
 
-permalink: /resume1/
+permalink: /zhou-resume/
 ---
-Xiaohong Zhouuuuuu
+Xiaohong Zhou
 ============
 
 [*back to README*](https://igumiao.github.io/README)
