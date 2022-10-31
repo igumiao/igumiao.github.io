@@ -11,7 +11,7 @@ a Markdown editor, GitHub Pages, and Jekyll.
 
 ## Demo
 
-Here is the demo: [igumiao's resume](igumiao.github.io/resume)
+Here is the demo: [igumiao's resume](https://igumiao.github.io/zhou-resume)
 
 
 
