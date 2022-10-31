@@ -131,8 +131,8 @@ description: [A short description of your site's purpose]
 ```
 url: "https://username.github.io/" 
 ```
-- Push it to GitHub
 
+- Push it to GitHub
 ```bash
 git add --all
 git commit -m "Write Commit Message"
