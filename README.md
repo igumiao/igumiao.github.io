@@ -41,12 +41,16 @@ Each of the commands should show up the version of the tool.
 
 ----------------------
 ## Instructions
->Since our audience is students who don't have much experience with Git, Jekyll, Markdown, and Github, it's necessary to give clear and straightforward instructions. The instruction should only involve critical parts.
-The instructions use the same word to describe the name of a file, the variable name, or the page link to keep the style to avoid confusion.
+>As mentioned in Etter's book, it is essential to define the audience when doing modern technical writing like this README.
+>
+>Since you are students who don't have much experience with Git, Jekyll, Markdown, and GitHub, it's necessary to give you clear and straightforward instructions. The instruction should only involve critical parts. 
+>The instructions use the same word to describe the name of a file, the variable name, or the page link to keep the style to avoid confusion.
 
 #### 1. Create a repository
 
->Here we use a distributed version control tool called Git.
+>We will be using Git as a Distributed Version Control tool. Etter points out in the book, says that distributed version control system like GitHub has better performance. 
+>
+>You also need to add a README.md file in the root of the repository to include a quick summary of your project to follow the principle of modern technical writing.
 
 - Head over to [GitHub][githublink] 
 
@@ -57,8 +61,9 @@ The instructions use the same word to describe the name of a file, the variable 
 - Click *Create a new repository*
 
 #### 2. Clone the repository
->Here we demonstrate how to clone the repository and save the file on the local machine to achieve version control.
->The audience is the student with no experience with Git. Thus it's essential to demonstrate how to clone the repository.
+>Since you might not have experience with Git. Thus, it's essential to demonstrate how to clone the repository.
+>
+>Here we demonstrate how to clone the repository and save the file on the local machine so we can work offline. Working offline is a great advantage compared to a centralized system where people must edit one file online.
 
 -  Go to the folder  where you want to store your project (on your computer)
 ```bash
@@ -71,6 +76,8 @@ git clone https://github.com/username/username.github.io
 
 #### 3. Initialize your website
 
+>Static websites are excellent platforms to show your documentation or blogs. According to Etter’s book, static websites don’t require a database or complex installation procedures. Jekyll is a static website generator tool that helps you create a static website and modify the content easily. 
+>
 >Here we are using Jekyll to generate a static website.
 
 - Enter the project folder 
@@ -88,7 +95,9 @@ jekyll new myresume
 
 #### 4. Run locally with your resume.md
 
->Here we use a  lightweight Markup language called Markdown with Jekyll to generate our resume page.
+>Markdown is a lightweight markup language for creating formatted text. Its well-designed syntax appeals to developers. It’s easy to convert to web base language. It’s easier to modify compared to HTML. Etter suggests in the book to use Markdown for software documentation.
+>
+>Here we use a resume formatted in Markdown with Jekyll to generate our resume page.
 
 - Go to `./myresume` folder
 ```bash
@@ -105,6 +114,8 @@ bundle exec jekyll serve
 
 #### 5.  Add a theme to our resume page
 
+>A well-formatted web page is good, but we can make it looks more appealing by adding a theme. GitHub Pages have several themes that will your page more attractive. In this way, we also are encouraging others to write well-designed documentation.
+>
 >Here we are using GitHub Page's theme to modify our static webpage
 
 *In this tutorial, we will be using  [cayman theme][Caymanlink].*
@@ -148,7 +159,9 @@ description: [A short description of your site's purpose]
 
 #### 7. Push it to GitHub
 
->The audience is  student with no experience with Git, thus it's important to demonstrate how to push.
+>Now, we are pushing our projects to GitHub. Pushing is like uploading our files such that our documentation and codes will stay in sync all the time. 
+>
+>The audience is the student with no experience with Git, thus it's important to demonstrate how to push.
 
 - Change `url` in `_config.yml`
 ```
@@ -190,9 +203,9 @@ git push -u origin main
 ----------------------
 ## Authors and Acknowledgments
 
-This project using [*The Cayman theme*][Caymanlink]
+This project uses [*The Cayman theme*][Caymanlink]
 
-README created using [readme.so](https://readme.so)
+README was created using [readme.so](https://readme.so)
 
 Maintained by [@igumiao](https://www.github.com/igumiao)
 
